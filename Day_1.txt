@@ -1,0 +1,5 @@
+Gained practically
+
+- When a state variable is created in solidity and it is compiled it doesn't keep it in it memory instead it create a getter function that refer to the state variable unlike python it execute each line and it stores assigned variable as it is processing
+- when you declare a variable to be public within a contract the compiler automatically generate a getter function in such a way that once it is deployed you can call on the variable and access the value but it is the opposite for private
+- when changing value of a state variable you can declare a function
