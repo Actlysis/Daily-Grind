@@ -16,4 +16,6 @@ They exist as **proof of consistency and visibility** for my journey.
 
 ---
 
-⭐ If you find this repo useful or inspiring, a star would mean a lot!
+⭐ If you find this repo useful or inspiring, a star would mean a lot!  
+
+🔗 **Follow my journey on Twitter/X:** [@Bello_Mubarak1](https://x.com/Bello_Mubarak1)
